@@ -1,0 +1,6 @@
+@NajottalimCRM_HostAddress = http://localhost:5186
+
+GET {{NajottalimCRM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
